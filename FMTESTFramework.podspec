@@ -15,9 +15,9 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "TESTFramework"
+  spec.name         = "FMTESTFramework"
   spec.version      = "1.0.0"
-  spec.summary      = "A short description of TESTFramework."
+  spec.summary      = "A short description of FMTESTFramework."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
